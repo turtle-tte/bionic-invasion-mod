@@ -13,6 +13,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> NANITE = ITEMS.register("nanite",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SCRAPS = ITEMS.register("scraps",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

@@ -53,6 +53,7 @@ public class BionicInvasionMod
     {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.NANITE);
+            event.accept(ModItems.SCRAPS);
         }
     }
 
