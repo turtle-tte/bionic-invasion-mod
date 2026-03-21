@@ -20,6 +20,8 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> NANITE_BLOCK = registerBlock("nanite_block", () -> new Block(BlockBehaviour.Properties.of()
             .strength(4f).requiresCorrectToolForDrops().sound(SoundType.ANCIENT_DEBRIS)));
+    public static final RegistryObject<Block> CONVERTED_DIRT = registerBlock("converted_dirt", () -> new Block(BlockBehaviour.Properties.of()
+            .strength(4f).requiresCorrectToolForDrops().sound(SoundType.GRAVEL)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

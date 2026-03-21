@@ -2,5 +2,6 @@
   "item.bionic_invasion.nanite": "Nanite",
   "item.bionic_invasion.scraps": "Scraps",
 
-  "block.bionic_invasion.nanite_block": "Nanite Block"
+  "block.bionic_invasion.nanite_block": "Nanite Block",
+  "block.bionic_invasion.converted_dirt": "Converted Dirt"
 }

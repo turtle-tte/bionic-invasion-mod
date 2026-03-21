@@ -59,6 +59,7 @@ public class BionicInvasionMod
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.NANITE_BLOCK);
+            event.accept(ModBlocks.CONVERTED_DIRT);
         }
     }
 
