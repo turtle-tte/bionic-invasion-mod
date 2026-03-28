@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "value": [
+    "bionic_invasion:nanite_block",
+    "bionic_invasion:depleted_ore",
+    "bionic_invasion:depleted_deepslate_ore"
+  ]
+}

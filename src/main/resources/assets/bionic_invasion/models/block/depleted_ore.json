@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bionic_invasion:block/depleted_ore"
+  }
+}

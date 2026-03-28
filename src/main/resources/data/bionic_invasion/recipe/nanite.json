@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bionic_invasion:nanite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "bionic_invasion:nanite"
+  }
+}

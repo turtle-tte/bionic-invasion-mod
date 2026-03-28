@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bionic_invasion:block/depleted_ore"
+    }
+  }
+}

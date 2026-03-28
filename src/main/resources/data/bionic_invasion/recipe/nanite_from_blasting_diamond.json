@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.00,
+  "ingredient": {
+    "item": "bionic_invasion:scraps"
+  },
+  "result": {
+    "id": "bionic_invasion:nanite"
+  }
+}

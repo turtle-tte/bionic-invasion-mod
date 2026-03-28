@@ -62,6 +62,9 @@ public class BionicInvasionMod
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.NANITE_BLOCK);
             event.accept(ModBlocks.CONVERTED_DIRT);
+            event.accept(ModBlocks.DEPLETED_ORE);
+            event.accept(ModBlocks.DEPLETED_DEEPSLATE_ORE);
+
         }
     }
 

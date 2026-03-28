@@ -4,6 +4,8 @@
 
   "block.bionic_invasion.nanite_block": "Nanite Block",
   "block.bionic_invasion.converted_dirt": "Converted Dirt",
+  "block.bionic_invasion.depleted_ore": "Depleted Ore",
+  "block.bionic_invasion.depleted_deepslate_ore": "Depleted Deepslate Ore",
 
   "creativetab.bionic_invasion.bionic_invasion": "Bionic Invasion"
 }

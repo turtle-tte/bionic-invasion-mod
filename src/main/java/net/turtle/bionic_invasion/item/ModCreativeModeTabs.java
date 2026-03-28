@@ -22,6 +22,8 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.SCRAPS.get());
                         output.accept(ModBlocks.NANITE_BLOCK.get());
                         output.accept(ModBlocks.CONVERTED_DIRT.get());
+                        output.accept(ModBlocks.DEPLETED_ORE.get());
+                        output.accept(ModBlocks.DEPLETED_DEEPSLATE_ORE.get());
                     }).build());
 
     public static void register(IEventBus eventBus) {
